@@ -1,2 +1,2 @@
 # kyle_ycc
-kyle_ycc
+ycc class 1
