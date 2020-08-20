@@ -1,6 +1,6 @@
 #1번 문제
-a = 3
-b = 2
+a = int(input()) 
+b = int(input())
 print(a + b)
 print(a - b)
 print(a * b)
